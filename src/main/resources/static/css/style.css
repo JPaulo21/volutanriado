@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 { margin: 0.65vw auto 1.3vw }
+
+.panel {
+    width: 60vw;
+    height: 60vh;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 1px gray;
+    margin: 55px auto;
+}
+
+input {
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid darkgray;
+    margin: 0.65vw 0.65vw 0.65vw 0vw;
+    font-size: medium;
+}
+
+.voluntario{
+    display: block;
+    margin-bottom: 2.66vh;
+}
+
+.endereco{
+    margin-bottom: 2.66vh;
+}
+
+.cadastrar {
+    text-align: center;
+    margin: 3.5vh auto;
+}
+
+a {
+    padding: 10px 15px;
+    margin: 20px auto;
+    background-color: #99c2cf;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:active {
+    background: #69838b;
+}
+
+
